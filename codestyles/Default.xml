@@ -1,0 +1,9 @@
+<code_scheme name="Default" version="173">
+  <Properties>
+    <option name="SPACES_AROUND_KEY_VALUE_DELIMITER" value="true" />
+    <option name="KEEP_BLANK_LINES" value="true" />
+  </Properties>
+  <codeStyleSettings language="JAVA">
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+  </codeStyleSettings>
+</code_scheme>
