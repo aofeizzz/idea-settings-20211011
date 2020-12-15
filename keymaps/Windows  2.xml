@@ -1,0 +1,38 @@
+<keymap version="1" name="Windows 复制 正确重做" parent="$default">
+  <action id="$EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="alt f1" />
+  </action>
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="$TranslateAndReplaceAction">
+    <keyboard-shortcut first-keystroke="alt f2" />
+  </action>
+  <action id="ChangesView.Diff" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CloneRow" />
+  <action id="DatabaseView.CopyAction" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorDuplicate" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="ProjectViewChangeView" />
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SelectIn" />
+  <action id="SendEOF" />
+  <action id="WebOpenInAction" />
+  <action id="openAssertEqualsDiff" />
+  <action id="编辑 EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="alt f1" />
+  </action>
+  <action id="编辑 TranslateAndReplaceAction">
+    <keyboard-shortcut first-keystroke="alt f2" />
+  </action>
+</keymap>
