@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <histories>
       <item value="Unsupported class file major version 57" />
+      <item value="The specified target project directory mall-tiny-01\src\main\resources does not exist" />
+      <item value="You may setup Docker deployment run configuration for the following file(s):" />
       <item value="implement" />
       <item value="upgrade Encoding" />
       <item value="Multiple Spring Boot run configurations were detected. Services allows to manage multiple run configurations at once. " />
@@ -49,13 +51,11 @@
       <item value="Organization" />
       <item value="Runtime Exception" />
       <item value="Request need user authorized" />
-      <item value="Arguments to addParameter(String, String) cannot be null" />
-      <item value="multiplier" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="667" />
-        <entry key="ENGLISH" value="668" />
+        <entry key="CHINESE" value="669" />
+        <entry key="ENGLISH" value="670" />
         <entry key="IRISH" value="4" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="3" />
