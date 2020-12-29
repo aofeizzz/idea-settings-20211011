@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Result Maps collection already contains value for com.adaz.mall.tiny.mbg.mapper.PmsBrandMapper.BaseResultMap" />
       <item value="Dumper" />
       <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server." />
       <item value="Communications link failure" />
@@ -50,12 +51,11 @@
       <item value="Unhandled exception: java.lang.InterruptedException" />
       <item value="Return" />
       <item value="exception" />
-      <item value="exception Sku List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="686" />
-        <entry key="ENGLISH" value="687" />
+        <entry key="CHINESE" value="687" />
+        <entry key="ENGLISH" value="688" />
         <entry key="IRISH" value="4" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="3" />
