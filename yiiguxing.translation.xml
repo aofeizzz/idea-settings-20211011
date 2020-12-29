@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Dumper" />
       <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server." />
       <item value="Communications link failure" />
       <item value="utils" />
@@ -50,12 +51,11 @@
       <item value="Return" />
       <item value="exception" />
       <item value="exception Sku List" />
-      <item value="except" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="685" />
-        <entry key="ENGLISH" value="686" />
+        <entry key="CHINESE" value="686" />
+        <entry key="ENGLISH" value="687" />
         <entry key="IRISH" value="4" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="3" />

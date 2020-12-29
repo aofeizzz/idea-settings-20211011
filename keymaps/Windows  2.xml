@@ -30,6 +30,10 @@
   <action id="GuiDesigner.QuickJavadoc">
     <mouse-shortcut keystroke="alt button2" />
   </action>
+  <action id="HideActiveWindow">
+    <keyboard-shortcut first-keystroke="shift escape" />
+    <keyboard-shortcut first-keystroke="shift escape" second-keystroke="escape" />
+  </action>
   <action id="Macro.Reload">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
