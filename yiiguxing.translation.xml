@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="utils" />
+      <item value="util" />
       <item value="You are using an offline license." />
       <item value="Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured." />
       <item value="APPLICATION FAILED TO START" />
@@ -49,19 +51,17 @@
       <item value="except" />
       <item value="Prefixmessage" />
       <item value="message Prefix" />
-      <item value="remark" />
-      <item value="need Invoice" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="681" />
-        <entry key="ENGLISH" value="682" />
+        <entry key="CHINESE" value="683" />
+        <entry key="ENGLISH" value="684" />
         <entry key="IRISH" value="4" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="1" />
-        <entry key="ROMANIAN" value="2" />
+        <entry key="ROMANIAN" value="3" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="SWEDISH" value="1" />
