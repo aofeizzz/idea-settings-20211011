@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="calculate" />
+      <item value="shipping cost calcalate help" />
+      <item value="shipping subarea international not found" />
       <item value="Error updating database.  Cause: java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1\r\n### The error may involve com.adaz.mall.tiny.mbg.mapper.PmsBrandMapper.insertSelective-Inline\r\n### The error occurred while setting parameters\r\n### SQL: insert into pms_brand\r\n### Cause: java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1\n; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1" />
       <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1" />
       <item value="Example" />
@@ -48,14 +51,11 @@
       <item value="下单失败" />
       <item value="placing order" />
       <item value="待下单" />
-      <item value="place" />
-      <item value="order" />
-      <item value="successed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="692" />
-        <entry key="ENGLISH" value="693" />
+        <entry key="CHINESE" value="695" />
+        <entry key="ENGLISH" value="696" />
         <entry key="IRISH" value="4" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="3" />
