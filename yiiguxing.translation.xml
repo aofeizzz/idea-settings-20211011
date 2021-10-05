@@ -72,8 +72,10 @@
       </map>
     </option>
   </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1633422075057" />
+  </component>
   <component name="Settings">
-    <option name="ignoreRegExp" value="" />
     <option name="keepFormat" value="true" />
     <option name="showExplanation" value="true" />
     <option name="showWordsOnStartup" value="true" />
